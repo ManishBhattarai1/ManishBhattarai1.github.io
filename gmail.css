@@ -1,0 +1,26 @@
+h1 {
+    text-align: center;
+    font-style: italic;
+    opacity: 4rem;
+    top: 40px;
+}
+p {
+    text-align: center;
+    color: rgb(171, 113, 113);
+    font-size: 2rem;
+    font-style: italic;
+    opacity: 4rem;
+}
+div {
+    text-align: center;
+    border-radius: 300px;
+    padding: 1rem 2rem;
+    border-radius: 30px;
+   
+}
+html{
+    background-image: url(https://sportshub.cbsistatic.com/i/2021/08/09/f9f487fc-3c32-40f6-ba90-dc1ce083c962/one-piece-anime-opening-update-new-straw-hats-jimbei-1274612.jpg);
+    background-size: cover;
+ }
+ 
+ 
